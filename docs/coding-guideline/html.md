@@ -1,8 +1,8 @@
-# HTML/CSSコーディングガイドライン
+# HTML/CSS コーディングガイドライン
 
 ## 基本方針
 
-Google HTML/CSS Style Guideを採用  
+Google HTML/CSS Style Guide を採用  
 <https://google.github.io/styleguide/htmlcssguide.html>
 
 ## クラス命名規則
@@ -11,7 +11,7 @@ Google HTML/CSS Style Guideを採用
 - block-element
 - block-element modifier
 
-## modifierの接頭辞の命名規則
+## modifier の接頭辞の命名規則
 
 - is-
 - has-

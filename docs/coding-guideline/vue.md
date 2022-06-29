@@ -1,6 +1,7 @@
-# Vueコーディングガイドライン
+# Vue コーディングガイドライン
 
-
+- [ ] スタイルをコンポーネントに書く
+- [ ] 外部ファイルに書く
 
 ## コンポーネント
 
@@ -11,41 +12,38 @@
 - 次にアルファベット順
 
 - フレームワーク本体 vue, nuxtjs etc...
-- Vueに依存するライブラリ vee-validate etc...
-- Vueに依存しないライブラリ lodash, axios etc...
-- 1行スペース
+- Vue に依存するライブラリ vee-validate etc...
+- Vue に依存しないライブラリ lodash, axios etc...
+- 1 行スペース
 - 定数
 - ユーティリティ
 
-### Vueコンポーネント外
+### Vue コンポーネント外
 
 - 当コンポーネントでのみ使用する定数
 - 当コンポーネント用の型
 
-### Vueライブラリのコンポーネントタグ
+### Vue ライブラリのコンポーネントタグ
 
 - パスカルケースで書く
-- 要素の記載順 https://eslint.vuejs.org/rules/attributes-order.html eslintに入レル
+- 要素の記載順 https://eslint.vuejs.org/rules/attributes-order.html eslint に入レル
 
 特定のエレメントにイベントリスナー登録する場合
-refを使う
+ref を使う
 
-### 
+###
 
 - asyncData
-SEO施策が必要なページ ... 使うこと
-SEO施策が必要なページ ... 使わないこと
-
-data
-watch
-使用禁止
-mounted
-beforeDestroy
-初期表示で作成したイベントをremoveする
-methods
-スタイル
-// 必ずクラス名を付けること
-
-
+  SEO 施策が必要なページ ... 使うこと
+  SEO 施策が必要なページ ... 使わないこと
+- data
+- watch
+  使用禁止
+- mounted
+- beforeDestroy
+  初期表示で作成したイベントを remove する
+- methods
+  スタイル
+  // 必ずクラス名を付けること
 
 [戻る](../index.md)

@@ -1,6 +1,6 @@
 # 画面基本設計
 
-## 3つに分類
+## 3 つに分類
 
 - 初期表示
 - イベント登録
@@ -15,16 +15,16 @@
 
 ## 初期表示に必要な情報とは
 
-- GET変数
-- POST変数
+- GET 変数
+- POST 変数
 - セッション情報
   - サーバー
     - Set-Cookie HttpOnly
   - クライアント
     - cookie、localStrage、webStrage、
 - グローバル変数
-  - hooks、composableといったフレームワークで用意されている仕組み
-  - Windowsオブジェクト
+  - hooks、composable といったフレームワークで用意されている仕組み
+  - Windows オブジェクト
 
 ## 初期表示で行うこと
 

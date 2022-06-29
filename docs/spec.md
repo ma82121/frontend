@@ -1,4 +1,4 @@
-# 動作環境
+# 利用者の動作環境
 
 ## 分類
 
@@ -14,8 +14,8 @@
 
 - Windows Windows12 x EDGE
 - Mac OSX11/12 x Safari
-- Android OSは2世代前まで x Chrome
-- iPhone OSは2世代前まで x Safari
+- Android OS は 2 世代前まで x Chrome
+- iPhone OS は 2 世代前まで x Safari
 
 ※ブラウザは最新バージョンであること
 
@@ -23,9 +23,9 @@
 
 - Windows Windows10/12 x EDGE
 - Mac OSX11/12 x Safari
-- Android OSは2世代前まで x Chrome
-- iPhone OSは2世代前まで x Safari
-- iPad OSは2世代前まで x Safari
+- Android OS は 2 世代前まで x Chrome
+- iPhone OS は 2 世代前まで x Safari
+- iPad OS は 2 世代前まで x Safari
 
 ※ブラウザは最新バージョンであること
 
@@ -38,7 +38,7 @@
 ## シェア
 
 - 新規開発の場合は参考サイトより、世界のシェアを把握
-- 既存改修の場合はGoogleAnalyticsなどで計測したデータより既存の顧客のシェアを把握
+- 既存改修の場合は GoogleAnalytics などで計測したデータより既存の顧客のシェアを把握
 
 ## 作業効率
 
@@ -53,17 +53,17 @@
 ## ユーザーにはどこまで伝えるべきか
 
 - 推奨環境を簡潔に書く
-- WebGLを多用したサイトでは対応するCPUを書いてもいいかもしれない
+- WebGL を多用したサイトでは対応する CPU を書いてもいいかもしれない
 
 ## 参考サイト
 
 statcounter  
 <https://gs.statcounter.com/>
 
-Apple公表データ  
+Apple 公表データ  
 <https://developer.apple.com/support/app-store/>
 
-Google公表データ  
+Google 公表データ  
 <https://developer.android.com/about/dashboards/index.html#Platform>
 
 [戻る](./index.md)
