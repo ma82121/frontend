@@ -22,6 +22,6 @@
 | | |
 | -- | -- |
 | customize | |
-| pircial | |
+| pircial |  |
 
 [戻る](./index.md)

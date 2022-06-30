@@ -4,12 +4,16 @@ Backlog や Confluence など社内ツールが決まっていない場合
 
 ## 課題の立て方
 
-Github の issue を使う
+Github の issue と Projects を使う
 
 ## ブランチの切り方
 
-issue 単位で切る  
-feature/issue-25
+issue 単位で切る
+
+```plain-text
+feature/issue-1
+bugfix/issue-1
+```
 
 ## コミットメッセージの書き方
 
