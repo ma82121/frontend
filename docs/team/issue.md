@@ -8,7 +8,7 @@ Github の issue と Projects を使う
 
 ## ブランチの切り方
 
-issue 単位で切る
+課題 issue 単位で切る
 
 ```plain-text
 feature/issue-1
